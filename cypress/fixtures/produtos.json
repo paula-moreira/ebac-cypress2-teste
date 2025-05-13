@@ -1,0 +1,27 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XL",
+        "cor":"Green",
+        "quantidade": "1"
+    },
+    {
+        "nomeProduto": "Augusta Pullover Jacket",
+        "tamanho": "M",
+        "cor":"Red",
+        "quantidade": "1"
+    },
+
+    {
+        "nomeProduto": "Celeste Sports Bra",
+        "tamanho": "S",
+        "cor":"Yellow",
+        "quantidade": "1"
+    },
+    {
+        "nomeProduto": "Cassia Funnel Sweatshirt",
+        "tamanho": "L",
+        "cor":"White",
+        "quantidade": "1"
+    }
+]

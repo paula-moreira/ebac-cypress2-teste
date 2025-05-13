@@ -1,0 +1,17 @@
+[
+    {
+      "usuario": "paula.teste@teste.com.br",
+      "senha": "teste@123"
+    },
+    {
+        "Nome": "Paula",
+        "Sobrenome": "Teste",
+        "Endereço": "Rua das Flores, 123",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "CEP": "06290070",
+        "Telefone": "123456789",
+        "Endereço de e-mail": "paula.teste@teste.com.br"
+
+    }
+]
